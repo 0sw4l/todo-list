@@ -1,0 +1,10 @@
+/.idea
+db.sqlite3
+__pycache__/
+*.pyc
+*.pyo
+project/settings/local.py
+project/wsgi/local.py
+project/asgi/local.py
+manage_local.py
+*.DS_Store
